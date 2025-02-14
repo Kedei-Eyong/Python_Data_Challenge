@@ -10,7 +10,7 @@ Welcome to my 15-day data challenge! This repository contains the Jupyter notebo
 Each task focuses on data types, structures, NumPy and Pandas operations. This notebook is concise and can be used for learning purposes.
 The challenge is set in motion by a brief introduction of myself using python programming language.
 
-#Introducing myself using python
+## Introducing myself using python
 
 *"Hello, I am Kedei Eyong, a Data Analyst."*
 
