@@ -1,4 +1,5 @@
-<img width="343" alt="Capture day 5" src="https://github.com/user-attachments/assets/1ea432d1-b82e-4bc2-bdd5-1eafcc2f2b3b" />
+![1731480000826 python](https://github.com/user-attachments/assets/f4a69d60-bb5d-401a-8f42-0878d434b77b)
+
 <img width="473" alt="Capture day 2 p1" src="https://github.com/user-attachments/assets/453739d3-cd24-421d-bb8d-6aba711efffb" />
 # Python Data Challenge
 
