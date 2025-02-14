@@ -1,30 +1,34 @@
-# Kedei_Alfred
+# Python Data Challenge
+
+## Introduction
+
+Welcome to my 15-day data challenge! This repository contains the Jupyter notebook utilized for practicing fundamentals of python.
+Each task focuses on data types, structures, NumPy operations and Pandas operations. This notebook is concise and can be used for learning purposes.
+The challenge is set in motion by a brief introduction of myself using python programming language.
+
 #Introducing myself using python
-print("Hello, I am Kedei Eyong, a Data Analyst.")
 
-# My task duration (integer)
-duration = 15
-print(f"I am participating in a {duration} days Data Analytics Challenge.")
+*"Hello, I am Kedei Eyong, a Data Analyst."*
 
-# My favourite analytical tools (list)
-analytical_tools = ["Excel", "Python", "SQL", "Power BI"]
-print(f"I really enjoy using {analytical_tools}.")
-
-# My skills (dictionary)
-my_skills = {
+*my_skills = {
     "Data_Cleaning": "Expert",
     "Data_Wrangling": "Proficient",
     "Data_Analysis": "Expert",
     "Data_Visualization": "Proficient"
-}
-print(f"My skills include: {my_skills}")
+}*
 
-# My weekly study hours (float)
-study_period = 14.5
-print(f"I study approximately {study_period} hours weekly to hone my skills.")
 
-# Do I enjoy data visualization? (boolean)
-enjoys_visualization = True
-print(f"Do I enjoy data visualization? {enjoys_visualization}")
+## Getting Started
 
-print("I love what I do.")
+1. Clone the repository
+2. Install dependencies
+3. Run the notebook
+
+## Contributions
+
+Contributions and suggestions are welcome. Feel free to open a pull request.
+
+## Acknowledgement
+
+This challenge was inspired by HerTechTrail Academy
+
