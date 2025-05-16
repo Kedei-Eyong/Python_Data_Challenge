@@ -23,7 +23,7 @@ The challenge is set in motion by a brief introduction of myself using python pr
 
 ## Files
 
-'15 Days Data Challenge.ipynb': Jupyter notebook
+*'15 Days Data Challenge.ipynb': Jupyter Notebook*
 
 
 ## Getting Started
