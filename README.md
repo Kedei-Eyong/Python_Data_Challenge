@@ -21,6 +21,10 @@ The challenge is set in motion by a brief introduction of myself using python pr
     "Data_Visualization": "Proficient"
 }*
 
+## Files
+
+'15 Days Data Challenge.ipynb': Jupyter notebook
+
 
 ## Getting Started
 
